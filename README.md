@@ -1,4 +1,10 @@
-Criação da API - Dnc Group
+API - Produtos
+
+Inserção de Dados:
+Json ou XML.
+
+Consulta de Dados:
+id, nome ou tags. 
 
 //instalar node e postgres
 https://nodejs.org/en/
